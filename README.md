@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center">Assalomu alaykum 👋, I'm Botir</h1>
 
 <!--
 **lazy-devv/lazy-devv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
