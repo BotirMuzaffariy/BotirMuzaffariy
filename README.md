@@ -1,7 +1,8 @@
 <h1 align="center">Assalomu alaykum 👋, I'm Botir</h1>
-<h3 align="center">The man who trying to be better than yesterday!</h3>
+<h5 align="center">The man who trying to be better than yesterday!</h5>
 
-**About me**
+
+### About me
 - 🌱 I’m currently learning **Jetpack Compose**
 - 👯 I’m looking to collaborate on **interesting projects**
 - 📫 How to reach me: **lycr0343@gmail.com**
