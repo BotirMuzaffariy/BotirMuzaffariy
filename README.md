@@ -1,5 +1,5 @@
 <h1 align="center">Assalomu alaykum 👋, I'm Botir</h1>
-<h5 align="center">The man who trying to be better than yesterday!</h5>
+<h4 align="center">The man who trying to be better than yesterday!</h4>
 
 
 ### About me
