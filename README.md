@@ -15,6 +15,17 @@
 
 <br>
 
-<p align="center">Visitor count <br>
+<!--
+|GitHub Streak|God Bless StackOverflow!|
+|:-----------:|:-----:|
+|![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lazy-devv&theme=gotham)|[![StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16306159&theme=dark)](https://stackoverflow.com/users/16306159/botir)|
+<br>
+-->
+
+<p align="center">
+  Visitor count 
+  <br>
   <img src="https://profile-counter.glitch.me/lazy-devv/count.svg" />
+  <br>
+  <img height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" />
 </p>
