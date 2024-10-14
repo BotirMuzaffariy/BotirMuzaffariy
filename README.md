@@ -6,11 +6,11 @@
 ### About me
 - 🌱 I’m currently learning **Jetpack Compose**
 - 👯 I’m looking to collaborate on **interesting projects**
-- 📫 How to reach me: **lycr0343@gmail.com**
+- 📫 How to reach me: **botirmuzaffariy@gmail.com**, **[t.me/BotirMuzaffariy](https://t.me/BotirMuzaffariy)**
 
 <br>
 
-| <img align="center" src="https://github-readme-stats-aryashah2k.vercel.app/api?username=lazy-devv&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Botir's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazy-devv&layout=compact&theme=buefy&hide_border=true" /> </a> | 
+| <img align="center" src="https://github-readme-stats-aryashah2k.vercel.app/api?username=BotirMuzaffariy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Botir's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BotirMuzaffariy&layout=compact&theme=buefy&hide_border=true" /> </a> | 
 | ------------- | ------------- |
 
 <br>
