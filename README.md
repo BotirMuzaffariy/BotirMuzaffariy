@@ -6,7 +6,7 @@
 ### About me
 - 🌱 I’m currently learning **Jetpack Compose**
 - 👯 I’m looking to collaborate on **interesting projects**
-- 📫 How to reach me: **botirmuzaffariy@gmail.com**, **[t.me/BotirMuzaffariy](https://t.me/BotirMuzaffariy)**
+- 📫 How to reach me: **[Click to see my all accounts](https://myurls.co/muzaffariy)**
 
 <br>
 
